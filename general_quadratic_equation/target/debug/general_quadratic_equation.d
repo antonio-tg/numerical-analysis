@@ -1,0 +1,1 @@
+/home/tega8574/Documentos/OLD/code/numerical-analysis/general_quadratic_equation/target/debug/general_quadratic_equation: /home/tega8574/Documentos/OLD/code/numerical-analysis/general_quadratic_equation/general_quadratic_equation.rs
